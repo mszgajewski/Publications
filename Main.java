@@ -67,6 +67,4 @@ class Announcement extends Publication {
         return super.getDetails() + ", daysToExpire=" + daysToExpire ;
     }
 
-    // write your code here
-
 }
